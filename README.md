@@ -10,7 +10,7 @@ es una aplicación web moderna que permite saber en tiempo real los precios del 
 | Gestión de Estado | ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat) | Estado global simplificado |
 | Validación      | ![Zod](https://img.shields.io/badge/Zod-3E63DD?style=flat)                  | Validación de tipos y formularios |
 | API Client      | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios)   | Peticiones HTTP |
-| APIs            | ![CoinGecko](https://img.shields.io/badge/CoinGecko_API-8CC63F?style=flat)  | Datos de criptomonedas |
+
 
 ## ✨ Features Destacados
 
